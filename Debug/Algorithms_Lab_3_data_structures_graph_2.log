@@ -1,0 +1,7 @@
+﻿  Algorithms_Lab_3_data_structures_graph_2.cpp
+C:\Users\Modify\Downloads\AHNS\Algorytmy\Lab_3_\Algorithms_Lab_3_data_structures_graph_2\Algorithms_Lab_3_data_structures_graph_2.cpp(76,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Modify\Downloads\AHNS\Algorytmy\Lab_3_\Algorithms_Lab_3_data_structures_graph_2\Algorithms_Lab_3_data_structures_graph_2.cpp(177,10): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Modify\Downloads\AHNS\Algorytmy\Lab_3_\Algorithms_Lab_3_data_structures_graph_2\Algorithms_Lab_3_data_structures_graph_2.cpp(188,10): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Modify\Downloads\AHNS\Algorytmy\Lab_3_\Algorithms_Lab_3_data_structures_graph_2\Algorithms_Lab_3_data_structures_graph_2.cpp(164,10): warning C4101: 'T2': unreferenced local variable
+C:\Users\Modify\Downloads\AHNS\Algorytmy\Lab_3_\Algorithms_Lab_3_data_structures_graph_2\Algorithms_Lab_3_data_structures_graph_2.cpp(164,6): warning C4101: 'T1': unreferenced local variable
+  Algorithms_Lab_3_data_structures_graph_2.vcxproj -> C:\Users\Modify\Downloads\AHNS\Algorytmy\Lab_3_\Algorithms_Lab_3_data_structures_graph_2\Debug\Algorithms_Lab_3_data_structures_graph_2.exe
